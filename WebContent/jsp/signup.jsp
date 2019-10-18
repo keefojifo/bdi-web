@@ -9,7 +9,7 @@
 <body>
 
 
-<form method="get" action="/bdi-web/jsp/singup_ok.jsp">
+<form method="get" action="/bdi-web/jsp/signup_ok.jsp">
 ID:<input type="text"name="id"><br>
 Password:<input type="password" name ="pwd"><br>
 Name:<input type="text" name ="name"><br>
